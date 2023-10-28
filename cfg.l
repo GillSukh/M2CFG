@@ -1,5 +1,5 @@
 %{
-#include </home/gill/Desktop/Midterm2/y.tab.h>
+#include <y.tab.h>
 %}
 
 %% 
